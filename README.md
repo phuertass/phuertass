@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github stas
+### Github stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phuertass&theme=dark)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuertass&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuertass&langs_count=20&layout=compact)
